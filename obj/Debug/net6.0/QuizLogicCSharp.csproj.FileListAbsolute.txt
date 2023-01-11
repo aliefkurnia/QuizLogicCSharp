@@ -1,0 +1,15 @@
+C:\Users\alief\source\batch18\VbAppConsole\QuizLogicCSharp\bin\Debug\net6.0\QuizLogicCSharp.exe
+C:\Users\alief\source\batch18\VbAppConsole\QuizLogicCSharp\bin\Debug\net6.0\QuizLogicCSharp.deps.json
+C:\Users\alief\source\batch18\VbAppConsole\QuizLogicCSharp\bin\Debug\net6.0\QuizLogicCSharp.runtimeconfig.json
+C:\Users\alief\source\batch18\VbAppConsole\QuizLogicCSharp\bin\Debug\net6.0\QuizLogicCSharp.dll
+C:\Users\alief\source\batch18\VbAppConsole\QuizLogicCSharp\bin\Debug\net6.0\QuizLogicCSharp.pdb
+C:\Users\alief\source\batch18\VbAppConsole\QuizLogicCSharp\obj\Debug\net6.0\QuizLogicCSharp.csproj.AssemblyReference.cache
+C:\Users\alief\source\batch18\VbAppConsole\QuizLogicCSharp\obj\Debug\net6.0\QuizLogicCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alief\source\batch18\VbAppConsole\QuizLogicCSharp\obj\Debug\net6.0\QuizLogicCSharp.AssemblyInfoInputs.cache
+C:\Users\alief\source\batch18\VbAppConsole\QuizLogicCSharp\obj\Debug\net6.0\QuizLogicCSharp.AssemblyInfo.cs
+C:\Users\alief\source\batch18\VbAppConsole\QuizLogicCSharp\obj\Debug\net6.0\QuizLogicCSharp.csproj.CoreCompileInputs.cache
+C:\Users\alief\source\batch18\VbAppConsole\QuizLogicCSharp\obj\Debug\net6.0\QuizLogicCSharp.dll
+C:\Users\alief\source\batch18\VbAppConsole\QuizLogicCSharp\obj\Debug\net6.0\refint\QuizLogicCSharp.dll
+C:\Users\alief\source\batch18\VbAppConsole\QuizLogicCSharp\obj\Debug\net6.0\QuizLogicCSharp.pdb
+C:\Users\alief\source\batch18\VbAppConsole\QuizLogicCSharp\obj\Debug\net6.0\QuizLogicCSharp.genruntimeconfig.cache
+C:\Users\alief\source\batch18\VbAppConsole\QuizLogicCSharp\obj\Debug\net6.0\ref\QuizLogicCSharp.dll
